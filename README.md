@@ -1,4 +1,4 @@
-# rsa -- A deno library for RSA public/private key encryption/decryption
+# rsa -- A deno library for RSA cryptography
 
 ## Import
 
